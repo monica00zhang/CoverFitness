@@ -1,0 +1,5 @@
+langchain_core
+streamlit
+plotly
+openai
+langchain_openai
